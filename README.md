@@ -72,15 +72,14 @@
 ## 📊 Performance Metrics
 
 <p align="center">
-  <!-- آمار استریک اختصاصی شما -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmoiran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- آمار استریک اصلاح‌شده برای pmoiron -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmoiron&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- نمودار فعالیت‌های گیت‌هاب شما -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pmoiran&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" />
+  <!-- نمودار فعالیت‌های اصلاح‌شده برای pmoiron -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pmoiron&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" />
 </p>
 
-<!-- موج رنگی انتهای صفحه (تزیینی) -->
+<!-- موج رنگی انتهای صفحه -->
 <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=100&section=footer" width="100%" />
-
